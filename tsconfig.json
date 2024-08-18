@@ -2,6 +2,7 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "resolveJsonModule": true,
     "typeRoots": ["node_modules/@types"],
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
